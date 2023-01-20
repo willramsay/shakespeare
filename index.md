@@ -17,15 +17,15 @@ Week 1
 
 Week 2
 
-Tuesday, Jan. 17 *A Midsummer Night's Dream*
+| Tuesday, Jan. 17 | *A Midsummer Night's Dream* |
 
-Friday, Jan. 20 *The Tempest*
+| Friday, Jan. 20 | *The Tempest* |
 
 Week 3
 
-Tuesday, Jan. 24 *Macbeth*
+| Tuesday, Jan. 24 | *Macbeth* |
 
-Friday, Jan. 27 *The Two Gentlemen of Verona*
+| Friday, Jan. 27 | *The Two Gentlemen of Verona* |
 
 ### Term 5
 
