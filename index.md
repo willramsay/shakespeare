@@ -6,6 +6,17 @@ Spring 2023, Deep Springs College, Prof. [Will Ramsay](https://willramsay.github
 
 ## Overview
 
+## Texts
+
+The required text for the course is
+* Stephen Orgel and A. R. Braunmuller, eds., *The Complete Pelican Shakespeare* ISBN 978-0141000589.
+
+We will also read selections from
+* Sylvia Adamson et al., *Reading Shakespeare's Dramatic Language: A Guide*
+* David Crystal, *'Think on my Words': Exploring Shakespeare's Language*
+* Russ McDonald, *Shakespeare and the Arts of Language* 
+* Simon Palfrey, *Doing Shakespeare*, 2nd ed.
+
 ## Course Schedule
 
 ### Term 4
