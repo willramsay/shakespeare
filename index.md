@@ -12,9 +12,8 @@ Spring 2023, Deep Springs College, Prof. [Will Ramsay](https://willramsay.github
 
 Week 1
 
-Tuesday, Jan. 10 Introduction
-
-Friday, Jan. 13 *The Comedy of Errors*
+| Tuesday, Jan. 10 | Introduction |
+| Friday, Jan. 13 | *The Comedy of Errors* |
 
 Week 2
 
