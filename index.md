@@ -10,13 +10,10 @@ Spring 2023, Deep Springs College, Prof. [Will Ramsay](https://willramsay.github
 
 ### Term 4
 
-Week 1
-| | |
+| Week 1 |
 | Tuesday, Jan. 10 | Introduction |
 | Friday, Jan. 13 | *The Comedy of Errors* |
-
-Week 2
-
+| Week 2 |
 | Tuesday, Jan. 17 | *A Midsummer Night's Dream* |
 | Friday, Jan. 20 | *The Tempest* |
 
