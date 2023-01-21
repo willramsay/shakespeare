@@ -50,8 +50,9 @@ We may also read selections from
 |Friday, Feb. 24|No class, Shakespeare Week||
 
 ### Term 5
-| **Week 1**|&nbsp;|
-| Tuesday, Mar. 14|*As You Like It*|
+
+| **Week 1** | &nbsp; |
+| Tuesday, Mar. 14 |*As You Like It*|
 | Friday, Mar. 17|*Richard II*|
 | **Week 2**|&nbsp;|
 | Tuesday, Mar. 21|*1 Henry IV*|
