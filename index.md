@@ -50,27 +50,27 @@ We may also read selections from
 |Friday, Feb. 24|No class, Shakespeare Week||
 
 ### Term 5
-|**Week 1**|&nbsp;|
-|Tuesday, Mar. 14|*As You Like It*|
-|Friday, Mar. 17|*Richard II*|
-|**Week 2**|&nbsp;|
-|Tuesday, Mar. 21|*1 Henry IV*|
-|Friday, Mar. 24|*Antony and Cleopatra*|
-|**Week 3**|&nbsp;|
-|Tuesday, Mar. 28|*The Winter's Tale*|
-|Friday, Mar. 31|*2 Henry IV*|
-|**Week 4**|&nbsp;|
-|Tuesday, Apr. 4|*Troilus and Cressida*|
-|Friday, Apr. 7|*Othello*|
-|**Week 5**|&nbsp;|
-|Tuesday, Apr. 11|*Coriolanus*|
-|Friday, Apr. 14|*Hamlet*|
-**Week 6**|&nbsp;|
-|Tuesday, Apr. 18|Flex day|
-|Tuesday, Apr. 21|Flex day|
-**Week 7**|&nbsp;|
-|Tuesday, Apr. 25|Exam, part 1|
-|Friday, Apr. 28|Exam, part 2|
+| **Week 1**|&nbsp;|
+| Tuesday, Mar. 14|*As You Like It*|
+| Friday, Mar. 17|*Richard II*|
+| **Week 2**|&nbsp;|
+| Tuesday, Mar. 21|*1 Henry IV*|
+| Friday, Mar. 24|*Antony and Cleopatra*|
+| **Week 3**|&nbsp;|
+| Tuesday, Mar. 28|*The Winter's Tale*|
+| Friday, Mar. 31|*2 Henry IV*|
+| **Week 4**|&nbsp;|
+| Tuesday, Apr. 4|*Troilus and Cressida*|
+| Friday, Apr. 7|*Othello*|
+| **Week 5**|&nbsp;|
+| Tuesday, Apr. 11|*Coriolanus*|
+| Friday, Apr. 14|*Hamlet*|
+| **Week 6**|&nbsp;|
+| Tuesday, Apr. 18|Flex day|
+| Tuesday, Apr. 21|Flex day|
+| **Week 7**|&nbsp;|
+| Tuesday, Apr. 25|Exam, part 1|
+| Friday, Apr. 28|Exam, part 2|
 
 ## Grading and Other Policies
 
