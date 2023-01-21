@@ -37,7 +37,7 @@ We may also read selections from
 | Tuesday, Jan. 24 | *Macbeth* | Palfrey on Macbeth's verse |
 | Friday, Jan. 27 | *The Two Gentlemen of Verona* | McDonald on Sh.'s metrical development |
 | **Week 4** |&nbsp;|&nbsp;|
-|Tuesday, Jan. 31|*Julius Caesar*|Wright on scanning Sh's meter|
+|Tuesday, Jan. 31|*Julius Caesar*|Wright on scanning Sh.'s meter|
 |Friday, Feb. 3|*Twelfth Night*||
 |**Week 5**|&nbsp;|&nbsp;|
 |Tuesday, Feb. 7|*King John*||
@@ -52,13 +52,13 @@ We may also read selections from
 ### Term 5
 
 | **Week 1** | &nbsp; | &nbsp; |
-| Tuesday, Mar. 14 |*As You Like It*||
-| Friday, Mar. 17|*Richard II*||
+| Tuesday, Mar. 14 |*As You Like It*|Hope on Renaissance ideas on language|
+| Friday, Mar. 17|*Richard II*|Mack on Elizabethan rhetoric|
 | **Week 2**|&nbsp;||
-| Tuesday, Mar. 21|*1 Henry IV*||
-| Friday, Mar. 24|*Antony and Cleopatra*||
+| Tuesday, Mar. 21|*1 Henry IV*|McDonald on the language Sh. learned|
+| Friday, Mar. 24|*Antony and Cleopatra*|Adamson on literary language|
 | **Week 3**|&nbsp;||
-| Tuesday, Mar. 28|*The Winter's Tale*||
+| Tuesday, Mar. 28|*The Winter's Tale*|two glossaries of rhetorical terms|
 | Friday, Mar. 31|*2 Henry IV*||
 | **Week 4**|&nbsp;||
 | Tuesday, Apr. 4|*Troilus and Cressida*||
