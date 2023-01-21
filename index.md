@@ -65,7 +65,7 @@ We may also read selections from
 | Friday, Apr. 7|*Othello*||
 | **Week 5**|&nbsp;||
 | Tuesday, Apr. 11|*Coriolanus*||
-| Friday, Apr. 14|*Hamlet*||
+| Friday, Apr. 14|*Hamlet*|Wright on hendiadys and *Hamlet*|
 | **Week 6**|&nbsp;||
 | Tuesday, Apr. 18|Flex day||
 | Tuesday, Apr. 21|Flex day||
