@@ -40,10 +40,10 @@ We may also read selections from
 |Tuesday, Jan. 31|*Julius Caesar*|Wright on scanning Sh.'s meter|
 |Friday, Feb. 3|*Twelfth Night*||
 |**Week 5**|&nbsp;|&nbsp;|
-|Tuesday, Feb. 7|*King John*||
-|Friday, Feb. 10|*The Taming of the Shrew*|Nash on puns|
+|Tuesday, Feb. 7|*The Taming of the Shrew*||
+|Friday, Feb. 10|*Much Ado About Nothing*|Nash on puns|
 |**Week 6**|&nbsp;|&nbsp;|
-|Tuesday, Feb. 14|*Much Ado About Nothing*|Palfrey on puns|
+|Tuesday, Feb. 14|*The Merchant of Venice*|Palfrey on puns|
 |Friday, Feb. 17|Exam, part 1||
 |**Week 7**|&nbsp;|&nbsp;|
 |Tuesday, Feb. 21|Exam, part 2||
