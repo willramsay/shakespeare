@@ -38,12 +38,12 @@ We may also read selections from
 | Friday, Jan. 27 | *The Two Gentlemen of Verona* | McDonald on Sh.'s metrical development |
 | **Week 4** |&nbsp;|&nbsp;|
 |Tuesday, Jan. 31|*Julius Caesar*|Wright on scanning Sh.'s meter|
-|Friday, Feb. 3|*Twelfth Night*||
+|Friday, Feb. 3|*Twelfth Night*|Nash on puns|
 |**Week 5**|&nbsp;|&nbsp;|
-|Tuesday, Feb. 7|*The Taming of the Shrew*||
-|Friday, Feb. 10|*Much Ado About Nothing*|Nash on puns|
+|Tuesday, Feb. 7|*The Taming of the Shrew*|Palfrey on puns|
+|Friday, Feb. 10|*Much Ado About Nothing*||
 |**Week 6**|&nbsp;|&nbsp;|
-|Tuesday, Feb. 14|*The Merchant of Venice*|Palfrey on puns|
+|Tuesday, Feb. 14|*The Merchant of Venice*|Smith, "Was Shylock Jewish?" <br> <br> Kietzman, "Shylock and Covenantal Interplay"|
 |Friday, Feb. 17|Exam, part 1||
 |**Week 7**|&nbsp;|&nbsp;|
 |Tuesday, Feb. 21|Exam, part 2||
