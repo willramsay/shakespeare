@@ -6,6 +6,8 @@ Spring 2023, Deep Springs College, Prof. [Will Ramsay](https://willramsay.github
 
 ## Overview
 
+An intensive introduction to Shakespeare, with a focus on language, and literary and theatrical convention.
+
 ## Texts
 
 The required text for the course is
@@ -75,3 +77,12 @@ We may also read selections from
 
 ## Grading and Other Policies
 
+### Grades
+Grades will be based on:
+* Term 4 exam (30%)
+* Term 5 exam (30%)
+* Class participation (30%)
+* Homework (10%)
+
+### Attendance 
+Students may miss one class without penalty. Further absences, unless excused by the dean, will result in a 1/3 letter grade deduction per absence.
