@@ -1,5 +1,7 @@
 # Shakespeare - Daily Schedule - Term 4
 
+Course [home](../shakespeare.html) page
+
 ## Week 1
 
 * Tuesday, Jan. 10 &mdash; Introduction to the Elizabethan and Jacobean theatre, including playing venues (Theatre, Curtain, Globe, Blackfriars, court), Sh's playing companies, the repertory system, rehearsal and performance, and audience. 
