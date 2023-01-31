@@ -1,6 +1,6 @@
 # Shakespeare - Daily Schedule - Term 4
 
-Course [home](../shakespeare.html) page
+Course [home](../shakespeare) page
 
 ## Week 1
 
