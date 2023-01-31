@@ -108,4 +108,4 @@ Students may miss one class without penalty. Further absences, unless excused by
 * David Bevington, ed., *English Renaissance Drama: A Norton Anthology*, 2002
 
 #### Some Intellectual Contexts
-* Helen Hackett, *The Elizabethan Mind: Searching for Self in an Age of Uncertainty*, 2022
+* Helen Hackett, *The Elizabethan Mind: Searching for the Self in an Age of Uncertainty*, 2022
