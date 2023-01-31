@@ -87,20 +87,25 @@ Students may miss one class without penalty. Further absences, unless excused by
 
 #### Shakespeare's Life
 * Peter Holland, "Shakespeare, William," in the [ODNB](https://doi.org/10.1093/ref:odnb/25200) 
+
 #### Shakespeare's Language
 * Sylvia Adamson et al., *Reading Shakespeare's Dramatic Language: A Guide*
 * David Crystal, *'Think on my Words': Exploring Shakespeare's Language*
 * Russ McDonald, *Shakespeare and the Arts of Language*
 * Simon Palfrey, *Doing Shakespeare*, 2nd ed.
 * Sylvia Adamson, "Literary Language" from *The Cambridge History of the English Language*, vol. 3
+
 #### Shakespeare's Text
 * John Jowett, *Shakespeare and Text*, revised ed., 2019 
+
 #### Shakespeare's Theatre
 * Tiffany Stern, *Making Shakespeare: From Stage to Page*, 2004
 * Siobhan Keenan, *Acting Companies and their Plays in Shakespeare's London*, 2014
 * Richard Dutton, *Shakespeare's Theatre: A History,* 2018
+
 #### Non-Shakespearean Drama
 * Martin Wiggins, *Shakespeare and the Drama of His Time*
 * David Bevington, ed., *English Renaissance Drama: A Norton Anthology*, 2002
+
 #### Some Intellectual Contexts
 * Helen Hackett, *The Elizabethan Mind: Searching for Self in an Age of Uncertainty*, 2022
