@@ -13,17 +13,7 @@ An intensive introduction to Shakespeare, with a focus on language, and literary
 The required text for the course is
 * Stephen Orgel and A. R. Braunmuller, eds., *The Complete Pelican Shakespeare* ISBN 978-0141000589.
 
-We may also read selections from
-* Sylvia Adamson, "Literary Language" from *The Cambridge History of the English Language*, vol. 3
-* Sylvia Adamson et al., *Reading Shakespeare's Dramatic Language: A Guide*
-* David Crystal, *'Think on my Words': Exploring Shakespeare's Language*
-* Lawrence Danson, *Shakespeare's Dramatic Genres*
-* Jonathan Hope, *Shakespeare and Language: Reason, Eloquence, and Artifice in the Renaissance* 
-* Emrys Jones, *Scenic Form in Shakespeare*
-* Peter Mack, *Elizabethan Rhetoric: Theory and Practice*
-* Russ McDonald, *Shakespeare and the Arts of Language* 
-* Simon Palfrey, *Doing Shakespeare*, 2nd ed.
-* Brian Vickers, *In Defence of Rhetoric* 
+We will also read selections from various secondary sources, listed in the course [bibliography](#recommended-reading-and-course-bibliography).
 
 ## Daily summary
 
@@ -90,3 +80,16 @@ Grades will be based on:
 
 ### Attendance 
 Students may miss one class without penalty. Further absences, unless excused by the dean, will result in a 1/3 letter grade deduction per absence.
+
+## Recommended Reading and Course Bibliography
+
+* Sylvia Adamson, "Literary Language" from *The Cambridge History of the English Language*, vol. 3
+* Sylvia Adamson et al., *Reading Shakespeare's Dramatic Language: A Guide*
+* David Crystal, *'Think on my Words': Exploring Shakespeare's Language*
+* Lawrence Danson, *Shakespeare's Dramatic Genres*
+* Jonathan Hope, *Shakespeare and Language: Reason, Eloquence, and Artifice in the Renaissance* 
+* Emrys Jones, *Scenic Form in Shakespeare*
+* Peter Mack, *Elizabethan Rhetoric: Theory and Practice*
+* Russ McDonald, *Shakespeare and the Arts of Language* 
+* Simon Palfrey, *Doing Shakespeare*, 2nd ed.
+* Brian Vickers, *In Defence of Rhetoric* 
