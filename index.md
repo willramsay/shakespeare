@@ -25,6 +25,10 @@ We may also read selections from
 * Simon Palfrey, *Doing Shakespeare*, 2nd ed.
 * Brian Vickers, *In Defence of Rhetoric* 
 
+## Daily summary
+
+* [Daily Schedule - Term 4](willramsay.github.io/shakespeare/daily_schedule-term_4)
+
 ## Course Schedule
 
 ### Term 4
