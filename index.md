@@ -27,7 +27,7 @@ We may also read selections from
 
 ## Daily summary
 
-* [Daily Schedule - Term 4](willramsay.github.io/shakespeare/daily_schedule-term_4)
+* [Daily Schedule - Term 4](./daily_schedule-term_4.html)
 
 ## Course Schedule
 
