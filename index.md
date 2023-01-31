@@ -8,7 +8,7 @@ Spring 2023, Deep Springs College, Prof. [Will Ramsay](https://willramsay.github
 
 ## Overview
 
-An intensive introduction to Shakespeare, with a focus on language, and literary and theatrical convention.
+An intensive introduction to Shakespeare, with a focus on language and literary and theatrical convention.
 
 ## Texts
 
