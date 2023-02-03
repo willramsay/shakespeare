@@ -45,7 +45,7 @@ Preparation for Friday, Jan. 27
 
 Friday, Jan. 27 &mdash; *The Two Gentlemen of Verona* 
 * The class was devoted to meter and metrical analysis.
-* 
+* Students identified several key passages in this "really stupid play." We see "the very bottom of Proteus's mind" in 2.6.1-43, while Proteus's slightly earlier speech at 2.4.190-212 motivates the plot. The nobler Valentine's speech at 3.1.170-87 makes clear that "Valentine and Proteus are fools in their conceptions of love," and Julia's tautologous remark that "I have no other, but a woman's reason: / I think him so because I think him so" suggests that women's love is irrational. Proteus's first soliloquy (1.1.63-9) sets up a confict between love and honor that will be pursued throughout the play. 
 
 ## Week 4
 Preparation for Tuesday, Jan. 31 
