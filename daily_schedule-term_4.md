@@ -6,49 +6,50 @@ Course [home](../shakespeare) page
 
 &mdash;Tuesday, Jan. 10 
  
-&mdash; Introduction to the Elizabethan and Jacobean theatre, including playing venues (Theatre, Curtain, Globe, Blackfriars, court), Sh's playing companies, the repertory system, rehearsal and performance, and audience. 
+* Introduction to the Elizabethan and Jacobean theatre, including playing venues (Theatre, Curtain, Globe, Blackfriars, court), Sh's playing companies, the repertory system, rehearsal and performance, and audience. 
 
 &mdash;Preparation for Friday, Jan. 13 
 
-&mdash; Read *The Comedy of Errors* and Crystal's essay on Sh's false friends &mdash; outline the play, identify and explain the importance of a key passage, and identify 2-3 examples of 'false friends' in the play
+* Read *The Comedy of Errors* and Crystal's essay on Sh's false friends &mdash; outline the play, identify and explain the importance of a key passage, and identify 2-3 examples of 'false friends' in the play
 
 &mdash;Friday, Jan. 13
 
 ## Week 2
 &mdash;Preparation for Tuesday, Jan. 17 
 
-&mdash; Read *A Midsummer Night's Dream* and two short essays on Sh's use of 'thou' and 'you' &mdash; outline the play, identify and explain the importance of a key passage, and explicate 2-3 instances of Sh's use of 'thou' or 'you' in the play
+* Read *A Midsummer Night's Dream* and two short essays on Sh's use of 'thou' and 'you' &mdash; outline the play, identify and explain the importance of a key passage, and explicate 2-3 instances of Sh's use of 'thou' or 'you' in the play
 
 &mdash;Tuesday, Jan. 17
 
 &mdash;Preparation for Friday, Jan. 20 
-&mdash; Read *The Tempest* and Crystal's essay on Sh's use of meter and prose &mdash; outline the play, identify and explain the importance of a key passage, and explain 2-3 instances of Sh's use of either prose or verse
+
+* Read *The Tempest* and Crystal's essay on Sh's use of meter and prose &mdash; outline the play, identify and explain the importance of a key passage, and explain 2-3 instances of Sh's use of either prose or verse
 
 &mdash;Friday, Jan. 20
 
 ## Week 3
 &mdash;Preparation for Tuesday, Jan. 24 
 
-&mdash; Read *Macbeth* and Palfrey's essay on Macbeth's verse &mdash; outline the play, identify and explain the importance of a key passage, and give an impressionistic analysis of a verse passage (see Palfrey for examples)
+* Read *Macbeth* and Palfrey's essay on Macbeth's verse &mdash; outline the play, identify and explain the importance of a key passage, and give an impressionistic analysis of a verse passage (see Palfrey for examples)
 
 &mdash;Tuesday, Jan. 24
 
 &mdash;Preparation for Friday, Jan. 27 
 
-&mdash; Read *The Two Gentlemen of Verona* and McDonad on Sh's metrical development &mdash; outline the play, identify and explain the importance of a key passage, and give an impressionistic analysis of a verse passage
+* Read *The Two Gentlemen of Verona* and McDonad on Sh's metrical development &mdash; outline the play, identify and explain the importance of a key passage, and give an impressionistic analysis of a verse passage
 
 &mdash;Friday, Jan. 27
 
 ## Week 4
 &mdash;Preparation for Tuesday, Jan. 31 
 
-&mdash; Read *Julius Caesar* and Wright's essay on scanning Sh's meter &mdash; outline the play, identify and explain the importance of a key passage, and scan a speech from the play (Brutus's speech "Under your pardon," etc., suggested)
+* Read *Julius Caesar* and Wright's essay on scanning Sh's meter &mdash; outline the play, identify and explain the importance of a key passage, and scan a speech from the play (Brutus's speech "Under your pardon," etc., suggested)
 
 &mdash;Tuesday, Jan. 31
 
 &mdash;Preparation for Feb. 3 
 
-&mdash; Read *Twelfth Night* and Nash's essay on puns &mdash; outline the play, identify and explain the significance of a key passage, identify and explicate 2 puns from the play, and give a metrical analysis of Orsino's first speech, "If music be the food of love," etc.
+* Read *Twelfth Night* and Nash's essay on puns &mdash; outline the play, identify and explain the significance of a key passage, identify and explicate 2 puns from the play, and give a metrical analysis of Orsino's first speech, "If music be the food of love," etc.
 
 &mdash;Friday, Feb. 3
 
