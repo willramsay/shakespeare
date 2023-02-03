@@ -35,6 +35,7 @@ Course [home](../shakespeare) page
 * Read *Macbeth* and Palfrey's essay on Macbeth's verse &mdash; outline the play, identify and explain the importance of a key passage, and give an impressionistic analysis of a verse passage (see Palfrey for examples)
 
 &mdash;Tuesday, Jan. 24 &mdash; *Macbeth*
+* Our discussion dwelt on four major topics: (1) the construction of the play &ndash is the play's progress an inevitable sequence or something like a dissolution, or spinning out of control? (2) the moral code within the play, is there one? what is it? how does Macbeth relate to it? (3) the relationship between and characterization of Macbeth and Lady Macbeth; and (4) Macbeth's emotional state in act 5.
 
 &mdash;Preparation for Friday, Jan. 27 
 
