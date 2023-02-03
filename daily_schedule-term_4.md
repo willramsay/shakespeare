@@ -28,7 +28,7 @@ Preparation for Friday, Jan. 20
 Friday, Jan. 20 &mdash; *The Tempest*
 
 * A theme in our discussion of *The Tempest* was Prospero: what is the nature of his magic? is he an analogue to the playwright? to what degree is he a 'moral' character? And indeed it was proposed that *The Tempest*, unlike *MND* is a character study, focusing on Prospero, Ariel, and especially Caliban. Is Caliban rational? What is the significance of the fact that his speeches are in verse? What to make of his attempted rape of Miranda? Why is he enslaved? What happens to him at the end of the play? But despite the proposed contrast with *MND* similarities were also pointed out: omnipotent characters (Prospero, Oberon), agents (Puck, Ariel), the play-within-a-play in *MND* and the masque in *The Tempest*, the epilogues about theatre. Finally, conversation touched on the subjects  of forgiveness and prayer.
-*
+* The epilogue for its revision of Prospero's character, Caliban's speech on the "sounds and sweet airs that give delight and hurt not" (for its poetry and apparent contradiction with what else is seemingly known of Caliban), Prospero's speech in which he abjures his magic ((1) for setting up a non-magical, though perhaps divine reconciliation and (2) for suggesting that Prospero's tyranny, so to speak, was due ony to the injustices he suffered) were all selected as key passages. It was also pointed out that Prospero's reunciciation of magic occurs after he talks with Ariel about empathy.   
 
 ## Week 3
 Preparation for Tuesday, Jan. 24 
