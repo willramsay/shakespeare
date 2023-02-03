@@ -36,8 +36,8 @@ Preparation for Tuesday, Jan. 24
 * Read *Macbeth* and Palfrey's essay on Macbeth's verse &mdash; outline the play, identify and explain the importance of a key passage, and give an impressionistic analysis of a verse passage (see Palfrey for examples)
 
 Tuesday, Jan. 24 &mdash; *Macbeth*
-* Our discussion dwelt on four major topics: (1) the construction of the play &ndash is the play's progress an inevitable sequence or something like a dissolution, or spinning out of control? (2) the moral code within the play, is there one? what is it? how does Macbeth relate to it? (3) the relationship between and characterization of Macbeth and Lady Macbeth; and (4) Macbeth's emotional state in act 5.
-* 
+* Our discussion dwelt on four major topics: (1) the construction of the play &ndash; is the play's progress an inevitable sequence or something like a dissolution, or spinning out of control? (2) the moral code within the play, is there one? what is it? how does Macbeth relate to it? (3) the relationship between and characterization of Macbeth and Lady Macbeth; and (4) Macbeth's emotional state in act 5.
+* Two of the play's most famous speeches--Macbeth's final soliloquy and Lady Macbeth's "Out, damned spot" speech--were selected as key passages, but so too were Lady Macbeth's remark that "Had he not resembled / My father as I slept, I had done't" and Macduff's decision to go to Fife (2.4.36), which marks "the disintegration of the play...while events are concentrated he can act decisively endash; it is only when he must start operating at a distance from thh action that things go awry." 
 
 Preparation for Friday, Jan. 27 
 
