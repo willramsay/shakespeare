@@ -41,6 +41,7 @@ Course [home](../shakespeare) page
 * Read *The Two Gentlemen of Verona* and McDonad on Sh's metrical development &mdash; outline the play, identify and explain the importance of a key passage, and give an impressionistic analysis of a verse passage
 
 &mdash;Friday, Jan. 27 &mdash; *The Two Gentlemen of Verona* 
+* The class was devoted to meter and metrical analysis.
 
 ## Week 4
 &mdash;Preparation for Tuesday, Jan. 31 
@@ -48,6 +49,7 @@ Course [home](../shakespeare) page
 * Read *Julius Caesar* and Wright's essay on scanning Sh's meter &mdash; outline the play, identify and explain the importance of a key passage, and scan a speech from the play (Brutus's speech "Under your pardon," etc., suggested)
 
 &mdash;Tuesday, Jan. 31 &mdash; *Julius Caesar* 
+* We discussed the importance of oratory in the play. Although some objected to what they saw as the play's thin characterization, others thought that this characterization put us as readers in the place of the plebians, having to decide issues based on speeches alone and not without any insider knowledge. It was aruged that most of the characters had 'abortive arcs,' and that the real emphasis was on certain show pieces: the killing of Caesar, for example, and Antony's funeral oration. The scenes in which Brutus talks with Portia and Caesar with Calpurnia were contrasted as a way into the question of where the political ended and the personal began for these men. It was also asked why the play mentioned Caesar's physical ailments, especially the "falling sickness"? Is he therefore less fit to rule? Or is he more sympathetic? Brutus's character was scrutinized: is he noble but stupid? Finally, the supernatural elements were touched on. 
 
 &mdash;Preparation for Feb. 3 
 
