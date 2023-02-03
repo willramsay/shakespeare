@@ -27,6 +27,8 @@ Course [home](../shakespeare) page
 
 &mdash;Friday, Jan. 20
 
+* A theme in our discussion of *The Tempest* was Prospero: what is the nature of his magic? is he an analogue to the playwright? to what degree is he a 'moral' character? And indeed it was proposed that *The Tempest*, unlike *MND* is a character study, focusing on Prospero, Ariel, and especially Caliban. Is Caliban rational? What is the significance of the fact that his speeches are in verse? What to make of his attempted rape of Miranda? Why is he enslaved? What happens to him at the end of the play? But despite the proposed contrast with *MND* similarities were also pointed out: omnipotent characters (Prospero, Oberon), agents (Puck, Ariel), the play-within-a-play in *MND* and the masque in *The Tempest*, the epilogues about theatre. Finally, conversation touched on the subjects  of forgiveness and prayer.
+
 ## Week 3
 &mdash;Preparation for Tuesday, Jan. 24 
 
