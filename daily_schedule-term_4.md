@@ -54,14 +54,23 @@ Course [home](../shakespeare) page
 &mdash;Friday, Feb. 3
 
 ## Week 5
-&mdash;
-&mdash;
-&mdash;
-&mdash;
+
+&mdash; Preparation for Tuesday, Feb. 7
+* Read *The Taming of the Shrew* and Palfrey on puns &mdash; outline the play, identify and explain the significance of a key passage, identify and explicate 2 puns from the play,
+
+&mdash; Tuesday, Feb. 7
+
+&mdash; Preparation for Friday, Feb. 10 
+* Read *Much Ado About Nothing* and McDonald on 'double talk' &mdash; outline the play, identify and explain the significance of a key passage, identify and explicate 2 puns from the play,
+
+&mdash; Friday, Feb. 10
 
 ## Week 6
 &mdash;Preparation for Tuesday, Feb. 14
+* Read *The Merchant of Venice* and either Bailey, "Shylock and the Slaves"; Smith, "Was Shylock Jewish?"; or Kietzman, "Shylock and Covenantal Interplay" &mdash; outline the play, identify and explain the significance of a key passage, and write a brief precis (300 words) of the article you selected
+
 &mdash;Tuesday, Feb. 14
+
 &mdash;Friday, Feb. 17 **Exam, part 1**
 
 ## Week 7 
