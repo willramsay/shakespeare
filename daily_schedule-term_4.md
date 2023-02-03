@@ -12,7 +12,7 @@ Course [home](../shakespeare) page
 
 * Read *The Comedy of Errors* and Crystal's essay on Sh's false friends &mdash; outline the play, identify and explain the importance of a key passage, and identify 2-3 examples of 'false friends' in the play
 
-&mdash;Friday, Jan. 13
+&mdash;Friday, Jan. 13 &mdash; *The Comedy of Errors*
 
 ## Week 2
 &mdash;Preparation for Tuesday, Jan. 17 
