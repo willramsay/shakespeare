@@ -54,7 +54,7 @@ Preparation for Tuesday, Jan. 31
 
 Tuesday, Jan. 31 &mdash; *Julius Caesar* 
 * We discussed the importance of oratory in the play. Although some objected to what they saw as the play's thin characterization, others thought that this characterization put us as readers in the place of the plebians, having to decide issues based on speeches alone and not without any insider knowledge. It was aruged that most of the characters had 'abortive arcs,' and that the real emphasis was on certain show pieces: the killing of Caesar, for example, and Antony's funeral oration. The scenes in which Brutus talks with Portia and Caesar with Calpurnia were contrasted as a way into the question of where the political ended and the personal began for these men. It was also asked why the play mentioned Caesar's physical ailments, especially the "falling sickness"? Is he therefore less fit to rule? Or is he more sympathetic? Brutus's character was scrutinized: is he noble but stupid? Finally, the supernatural elements were touched on. 
-* 
+* Antony's famous speech in 3.2 was identified by all but one student as the key passage of the play. The other proposal was Brutus's speech at 2.1.113-39, which marks a step towards assassination and perhaps a rejection on Brutus's part "of the divine influence that comes with an oath, for the purely secular political reasoning of love of Rome and hatred of tyranny."
 
 Preparation for Feb. 3 
 
