@@ -73,6 +73,7 @@ Preparation for Tuesday, Feb. 7
 Tuesday, Feb. 7 &mdash; *The Taming of the Shrew* 
 
 * *The Taming of the Shrew* prompted a lively discussion on the nature of comedy and drama. Was Kate's "taming" and her final speech required by the comic form? Should she be thought of as a person, a mere character, or a device in a play? Is the end comically justified by her "particular instransigence"? Or, is the play somehow a feminist one, which illustrates, by contrast with Kate's sudden taming, the lifelong taming to which all women are subject? What, if any, is the "ethical content" of the play? Is Kate's final speech, and the progress of the play as a whole, a commentary on social mores, a ethical injunction, a play with socially-available tropes? There was also debate regarding the purpose and function of the induction: an irrelevancy or a distancing device? 
+* Kate's long final speech was widely considered the most significant in the play: the play's moral, proof that the shrew as been tamed, or as evidence of the most radical development of any character we have read so far. The lone alternative passage selected occured in 2.1 when Kate, having denied Petruchio's announcement that they have agreed to be married, "gives up and resigns herself to the wedding less than 30 lines after her initial dissent."  
 
 Preparation for Friday, Feb. 10 
 * Read *Much Ado About Nothing* and McDonald on 'double talk' &mdash; outline the play, identify and explain the significance of a key passage, identify and explicate 2 puns from the play.
@@ -80,6 +81,7 @@ Preparation for Friday, Feb. 10
 Friday, Feb. 10 &mdash; *Much Ado About Nothing* 
 
 * Conversation centered around the tone of the play, a "dark comedy" it was called. The play, it seemed, could end tragically. And even with an awareness of the potentially happy end, Claudio's slanderous outburst at the wedding, Hero's (feigned) death, the funeral and "sincere" epitaph for Hero, the falling out between Claudio and Benedick, and, behind it all, the malicious, envious, and pathetic Don John, all gave the comedy weight which was deemed missing from *A Midsummer Night's Dream* and *Twelfth Night.* The importance of mishearing, disguise, and the "fake climax" of Don Pedro's supposed wooing of Hero (in his own name) were also touched on. After much discussion of the Hero and Claudio plot, attention turned to Benedick and Beatrice. Despite some attention to the "density" of their comic wordplay, the focus was on the nature of their relationship: are they already in love, is their relationship a good one? Near the end of class, a student pointed out that, curiously, after the session on *Taming of the Shrew,* little attention was paid to the demands of genre, or the possible dramatic functions, their relationship could serve.  
+* Key passage: Most thought the key scene was the wedding scene: Claudio's speech ("Oh Hero! What a Hero hadst thou been") and Leonato's speech lamenting Hero's "infamy" were both selected as significant. Also, the masquerade scene entire was picked out. 
 
 ## Week 6
 Preparation for Tuesday, Feb. 14
