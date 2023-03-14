@@ -50,13 +50,13 @@ We will also read selections from various secondary sources, listed in the cours
 ### Term 5
 
 | **Week 1** | &nbsp; | &nbsp; |
-| Tuesday, Mar. 14 |*As You Like It*|Hope on Renaissance ideas on language|
-| Friday, Mar. 17|*Richard II*|Mack on Elizabethan rhetoric|
+| Tuesday, Mar. 14 |*As You Like It*||
+| Friday, Mar. 17|*Richard II*|Introduction to Hermeneutics; Introduction to R2|
 | **Week 2**|&nbsp;||
-| Tuesday, Mar. 21|*1 Henry IV*|McDonald on the language Sh. learned|
-| Friday, Mar. 24|*Antony and Cleopatra*|Adamson on literary language|
+| Tuesday, Mar. 21|*1 Henry IV*||
+| Friday, Mar. 24|*Antony and Cleopatra*||
 | **Week 3**|&nbsp;||
-| Tuesday, Mar. 28|*The Winter's Tale*|two glossaries of rhetorical terms|
+| Tuesday, Mar. 28|*The Winter's Tale*||
 | Friday, Mar. 31|*2 Henry IV*||
 | **Week 4**|&nbsp;||
 | Tuesday, Apr. 4|*Troilus and Cressida*||
