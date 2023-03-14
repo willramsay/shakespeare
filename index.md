@@ -20,6 +20,7 @@ We will also read selections from various secondary sources, listed in the cours
 ## Daily summary
 
 * [Daily Schedule - Term 4](./daily_schedule-term_4.html)
+* [Daily Schedule - Term 5](./daily_schedule-term_5.html) 
 
 ## Course Schedule
 
