@@ -64,8 +64,7 @@ We will also read selections from various secondary sources, listed in the cours
 | Tuesday, Apr. 4|*Troilus and Cressida*|Vickers on the expressive function of rhetorical figures|
 | Friday, Apr. 7|*Othello*|Adamson on literary language in the Renaissance|
 | **Week 5**|&nbsp;||
-| Tuesday, Apr. 11|*Coriolanus*|Wales's A-Z of rhetorical terms <br>
-<br> Vickers's definitions of rhetorical tropes and figures|
+| Tuesday, Apr. 11|*Coriolanus*|Wales's A-Z of rhetorical terms <br> <br> Vickers's definitions of rhetorical tropes and figures|
 | Friday, Apr. 14|*Hamlet*|Wright on hendiadys and *Hamlet*|
 | **Week 6**|&nbsp;||
 | Tuesday, Apr. 18|Flex day||
