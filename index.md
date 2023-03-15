@@ -42,8 +42,7 @@ We will also read selections from various secondary sources, listed in the cours
 |Tuesday, Feb. 7|*The Taming of the Shrew*|Palfrey on puns|
 |Friday, Feb. 10|*Much Ado About Nothing*|McDonald on double talk|
 |**Week 6**|&nbsp;|&nbsp;|
-|Tuesday, Feb. 14|*The Merchant of Venice*|Smith, "Was Shylock Jewish?" <br>
-<br> Kietzman, "Shylock and Covenantal Interplay"|
+|Tuesday, Feb. 14|*The Merchant of Venice*|Smith, "Was Shylock Jewish?" <br> <br> Kietzman, "Shylock and Covenantal Interplay"|
 |Friday, Feb. 17|Exam, part 1||
 |**Week 7**|&nbsp;|&nbsp;|
 |Tuesday, Feb. 21|Exam, part 2||
