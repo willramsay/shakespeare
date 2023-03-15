@@ -42,7 +42,8 @@ We will also read selections from various secondary sources, listed in the cours
 |Tuesday, Feb. 7|*The Taming of the Shrew*|Palfrey on puns|
 |Friday, Feb. 10|*Much Ado About Nothing*|McDonald on double talk|
 |**Week 6**|&nbsp;|&nbsp;|
-|Tuesday, Feb. 14|*The Merchant of Venice*|Smith, "Was Shylock Jewish?" <br> <br> Kietzman, "Shylock and Covenantal Interplay"|
+|Tuesday, Feb. 14|*The Merchant of Venice*|Smith, "Was Shylock Jewish?" <br>
+<br> Kietzman, "Shylock and Covenantal Interplay"|
 |Friday, Feb. 17|Exam, part 1||
 |**Week 7**|&nbsp;|&nbsp;|
 |Tuesday, Feb. 21|Exam, part 2||
@@ -52,18 +53,19 @@ We will also read selections from various secondary sources, listed in the cours
 
 | **Week 1** | &nbsp; | &nbsp; |
 | Tuesday, Mar. 14 |*As You Like It*||
-| Friday, Mar. 17|*Richard II*|Introduction to Hermeneutics; Introduction to R2|
+| Friday, Mar. 17|*Richard II*|Introduction to hermeneutics handout; Introduction to R2|
 | **Week 2**|&nbsp;||
-| Tuesday, Mar. 21|*1 Henry IV*||
-| Friday, Mar. 24|*Antony and Cleopatra*||
+| Tuesday, Mar. 21|*1 Henry IV*|Hope on ideas about language in the renaissance|
+| Friday, Mar. 24|*Antony and Cleopatra*|Vickers on classical rhetoric|
 | **Week 3**|&nbsp;||
-| Tuesday, Mar. 28|*The Winter's Tale*||
-| Friday, Mar. 31|*2 Henry IV*||
+| Tuesday, Mar. 28|*The Winter's Tale*|Vickers on the Renaissance reintegration of rhetoric|
+| Friday, Mar. 31|*2 Henry IV*|Mack on rhetoric in the grammar school|
 | **Week 4**|&nbsp;||
-| Tuesday, Apr. 4|*Troilus and Cressida*||
-| Friday, Apr. 7|*Othello*||
+| Tuesday, Apr. 4|*Troilus and Cressida*|Vickers on the expressive function of rhetorical figures|
+| Friday, Apr. 7|*Othello*|Adamson on literary language in the Renaissance|
 | **Week 5**|&nbsp;||
-| Tuesday, Apr. 11|*Coriolanus*||
+| Tuesday, Apr. 11|*Coriolanus*|Wales's A-Z of rhetorical terms <br>
+<br> Vickers's definitions of rhetorical tropes and figures|
 | Friday, Apr. 14|*Hamlet*|Wright on hendiadys and *Hamlet*|
 | **Week 6**|&nbsp;||
 | Tuesday, Apr. 18|Flex day||
