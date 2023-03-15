@@ -99,7 +99,11 @@ Students may miss one class without penalty. Further absences, unless excused by
 * David Crystal, *'Think on my Words': Exploring Shakespeare's Language*, 2008
 * Russ McDonald, *Shakespeare and the Arts of Language*, 2001
 * Simon Palfrey, *Doing Shakespeare*, 2nd ed., 2011
+
 * Sylvia Adamson, "Literary Language" from *The Cambridge History of the English Language*, vol. 3, 1999
+* Jonathan Hope, *Shakespeare and Language: Reason, Eloquence and Artifice in the Renaissance*, 2010
+* Peter Mack, *Elizabethan Rhetoric: Theory and Practice*, 2004
+* Brian Vickers, *In Defence of Rhetoric*, 1998
 
 #### Shakespeare's Text
 * John Jowett, *Shakespeare and Text*, revised ed., 2019 
