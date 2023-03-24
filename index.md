@@ -55,18 +55,18 @@ We will also read selections from various secondary sources, listed in the cours
 | Friday, Mar. 17|*Richard II*|Introduction to hermeneutics handout; Introduction to R2|
 | **Week 2**|&nbsp;||
 | Tuesday, Mar. 21|*1 Henry IV*|Hope on ideas about language in the renaissance|
-| Friday, Mar. 24|*Antony and Cleopatra*|Vickers on classical rhetoric|
+| Friday, Mar. 24|Selected sonnets||
 | **Week 3**|&nbsp;||
-| Tuesday, Mar. 28|*The Winter's Tale*|Vickers on the Renaissance reintegration of rhetoric|
-| Friday, Mar. 31|*2 Henry IV*|Mack on rhetoric in the grammar school|
+| Tuesday, Mar. 28|*Antony and Cleopatra*|Vickers on classical rhetoric|
+| Friday, Mar. 31|*The Winter's Tale*|Vickers on the Renaissance reintegration of rhetoric|
 | **Week 4**|&nbsp;||
-| Tuesday, Apr. 4|*Troilus and Cressida*|Vickers on the expressive function of rhetorical figures|
-| Friday, Apr. 7|*Othello*|Adamson on literary language in the Renaissance|
+| Tuesday, Apr. 4|*2 Henry IV*|Mack on rhetoric in the grammar school|
+| Friday, Apr. 7|*Troilus and Cressida*|Vickers on the expressive function of rhetorical figures|
 | **Week 5**|&nbsp;||
-| Tuesday, Apr. 11|*Coriolanus*|Wales's A-Z of rhetorical terms <br> <br> Vickers's definitions of rhetorical tropes and figures|
-| Friday, Apr. 14|*Hamlet*|Wright on hendiadys and *Hamlet*|
+| Tuesday, Apr. 11|*Othello*|Adamson on literary language in the Renaissance|
+| Friday, Apr. 14|*Coriolanus*|Wales's A-Z of rhetorical terms <br> <br> Vickers's definitions of rhetorical tropes and figures|
 | **Week 6**|&nbsp;||
-| Tuesday, Apr. 18|Flex day||
+| Tuesday, Apr. 18|*Hamlet*|Wright on hendiadys and *Hamlet*|
 | Tuesday, Apr. 21|Flex day||
 | **Week 7**|&nbsp;||
 | Tuesday, Apr. 25|Exam, part 1||
